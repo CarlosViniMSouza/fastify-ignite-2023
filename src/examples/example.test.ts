@@ -1,6 +1,6 @@
 import { expect, test } from 'vitest';
 
-test('User should be able to create a new transaction', () => {
+test('Example for run a test', () => {
     // Operations
     const statusCodeResult = 404;
 
