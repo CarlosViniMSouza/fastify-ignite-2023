@@ -1,6 +1,6 @@
-# Criando API RESTful com Node.js
+# Building a REST API with Node.js
 
-Nesse módulo iremos desenvolver uma **API RESTful**, mas dessa vez utilizando o *Fastify, Knex, TypeScript* e outras ferramentas para auxiliar durante o desenvolvimento.
+In this module we will develop a **API RESTful**, but this time using *Fastify, Knex, TypeScript* and other tools to help during the development.
 
 ## [Fastify](https://www.fastify.io/)
 
@@ -13,3 +13,15 @@ An efficient server implies a lower cost of the infrastructure, a better respons
 ### Knex.js -> SQL query builder
 
 Knex.js (pronounced /kəˈnɛks/) is a "batteries included" SQL query builder for PostgreSQL, CockroachDB, MSSQL, MySQL, MariaDB, SQLite3, Better-SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use.
+
+## [Jest](https://jestjs.io/) {Not will be used! ⚠️}
+
+Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+
+It works with projects using: [Babel](https://babeljs.io/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/), [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/) and more!
+
+## [Vitest](https://vitest.dev/)
+
+Blazing Fast Unit Test Framework
+
+A Vite-native unit test framework. It's fast!
