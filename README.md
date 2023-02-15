@@ -25,3 +25,11 @@ It works with projects using: [Babel](https://babeljs.io/), [TypeScript](https:/
 Blazing Fast Unit Test Framework
 
 A Vite-native unit test framework. It's fast!
+
+## [TSUP](https://tsup.egoist.dev/)
+
+Bundle your TypeScript library with no config, powered by [esbuild.](https://github.com/evanw/esbuild)
+
+**What can it bundle?**
+
+Anything that's supported by Node.js natively, namely `.js`, `.json`, `.mjs`. And TypeScript `.ts`, `.tsx`. [CSS support is experimental.](https://tsup.egoist.dev/#css-support)

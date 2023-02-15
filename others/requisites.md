@@ -1,14 +1,14 @@
-### Requisitos Funcionais
+### Functional Requirements
 
-- [x] Usuário pode criar uma nova transação
-- [x] Usuário pode obter um resumo de sua conta
-- [x] Usuário pode visualizar uma única transação
-- [x] Usuário pode listar todas as transações feitas
+- [x] User can create a new transaction
+- [x] User can get a summary of their account
+- [x] User can view a single transaction
+- [x] User can list all transactions made
 
-### Regras de Negócio
+### Business Rule
 
-- [x] Identificar usuário entre as requisições
-- [ ] Usuário pode ver apenas suas próprias transações
-- [ ] A transação pode ser do tipo 'crédito' ou 'débito':
-        -> 'crédito': inserção de dinheiro
-        -> 'débito': remoção de dinheiro
+- [x] Identify user between requests
+- [x] User can only see his own transactions
+- [x] The transaction can be of type 'credit' or 'debit':
+        -> 'credit': money input
+        -> 'debit': money removal

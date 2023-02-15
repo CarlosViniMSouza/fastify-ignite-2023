@@ -1,19 +1,19 @@
-1. Testes "Unitários": unidade da sua aplicação.
+1. "Unit" Tests: Unit of your application.
 
-    ° Ex.: Uma função para 'formatar datas';
-    ° Ex.: Uma função para 'enviar um documento';
+    ° Eg: A function to 'format dates';
+    ° Eg: A function to 'send a document';
 
-2. Testes de "Integração": comunicação entre 2 ou mais unidades.
+2. "Integration" tests: communication between 2 or more units.
 
-    ° Ex.: A função 'mostrar hora' se comunica com a função 'formatar datas';
-    ° Ex.: A função 'compartilhar docs' se comunica com a função 'enviar um documento';
+    ° Eg: The 'show time' function communicates with the 'format dates' function;
+    ° Eg: The 'share docs' function communicates with the 'send a document' function;
 
-3. Testes "e2e": simula um usuário que realizar diversas operações.
+3. "e2e" tests: simulates a user performing various operations.
 
-    ° Ex.: Front-End -> simula um cadastro na aplicação
-    ° Ex.: Back-End -> simula requisições HTTP, WebSockets.
+    ° Eg.: Front-End -> simulates a registration in the application
+    ° Eg: Back-End -> simulates HTTP requests, WebSockets.
 
-4. Pirâmide de Testes:
+4. Test Pyramid:
 
-    ° e2e -> Não depende de tecnologia, de arquitetura, de estrutura (barreira de entrada: LOW);
-    ° Unitários -> Base de testes de uma aplicação;
+    ° e2e -> Does not depend on technology, architecture, structure (entry barrier: LOW);
+    ° Unitary -> Base of tests of application;

@@ -130,5 +130,16 @@ dist
 .pnp.*
 
 # others
-db/app.db
+
+## dependencies
+node_modules
+
+## database
+db/*.db
+
+## environment
+.env
 .env.test
+
+## build
+build
