@@ -135,7 +135,7 @@ dist
 node_modules
 
 ## database
-db/*.db
+database/*.db
 
 ## environment
 .env
